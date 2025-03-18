@@ -11,7 +11,7 @@ Apuntes a mano de las clases a lo largo del curso
 |----|----|----|----|----|
 |1	 | --- | 04/03/2025 | --- | --- |
 |1	 | 1 | 06/03/2025 | Presentación del curso | --- |
-|2   | 2 | 11/03/2025 | Clase 1 - Introducción a los sistemas operativos | |
-|2   | 3 | 13/03/2025 | Clase 2 - Procesos ||
+|2   | 2 | 11/03/2025 | Clase 1 - Introducción a los sistemas operativos | Clase 1 [[pdf]](so-clase1_11-03-2025.pdf) |
+|2   | 3 | 13/03/2025 | Clase 2 - Procesos | Clase 2 [[pdf]](so-clase2_13-03-2025.pdf) |
 |3   | 4 | 13/03/2025 | Clase 3 - LDE ||
 |3   | 5 | 15/03/2025 | ||
