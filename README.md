@@ -17,5 +17,7 @@ Apuntes a mano de las clases a lo largo del curso
 |3   | 5 | 21/03/2025 | Clase 4 - Ejecución directa limitada (LDE) | Clase 4 [[pdf]](so-clase4_21-03-2025.pdf) | Falto la parte de multiplexación de procesos  |
 |4   | 6 | 25/03/2025 | Clase 5 - Ejecución directa limitada (LDE) | Clase 5 [[pdf]](so-clase5_25-03-2025.pdf) | Se culmino la parte faltante  ||
 |4   | 7 | 27/03/2025 | Clase 6 - Politicas de planificación | Clase 6 [[pdf]](so-clase6_27-03-2025.pdf) | Falta explicar la parte relacionada con I/O ||
-|5   | 8 | 01/01/2025 | Clase 7 - MLFQ (Multilevel Feedback Queue) | Clase 7 [[pdf]](so-clase7_01-04-2025.pdf) | Se acabo de dar el tema de I/O pero el tema de MLFQ solo se pudo empezar |
-|5   | 9 | 03/01/2025 | Clase 8 - MLFQ (Multilevel Feedback Queue) | Clase 8 [[pdf]](so-clase8_03-04-2025.pdf) | Se logro acabar el tema de MLFQ |
+|5   | 8 | 01/04/2025 | Clase 7 - MLFQ (Multilevel Feedback Queue) | Clase 7 [[pdf]](so-clase7_01-04-2025.pdf) | Se acabo de dar el tema de I/O pero el tema de MLFQ solo se pudo empezar |
+|5   | 9 | 03/04/2025 | Clase 8 - MLFQ (Multilevel Feedback Queue) | Clase 8 [[pdf]](so-clase8_03-04-2025.pdf) | Se logro acabar el tema de MLFQ |
+|6   | --- | 08/04/2025 | --- | No hubo clase, jornada de mentorias |
+|6   | 10 | 10/04/2025 | Clase 9 - Virtualización de memoria | Clase 9 [[pdf]](so-clase9_11-04-2025.pdf) | ---- |
