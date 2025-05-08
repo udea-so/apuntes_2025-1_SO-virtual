@@ -23,4 +23,8 @@ Apuntes a mano de las clases a lo largo del curso
 |6   | 10 | 10/04/2025 | Clase 9 - Virtualización de memoria (Parte 1) | Clase 9 [[pdf]](so-clase9_11-04-2025.pdf) | ---- |
 |7   | --- | 15/04/2025 | --- | --- | Semana Santa |
 |7   | --- | 17/04/2025 | --- | --- | Semana Santa |
-|8   | 11 | 22/04/2025 | Clase 9 - Virtualización de memoria (Parte 2) | Clase 10 [[pdf]](so-clase10_22-04-2025.pdf) | ---- |
+|8   | 11 | 22/04/2025 | Clase 10 - Virtualización de memoria (Parte 2) | Clase 10 [[pdf]](so-clase10_22-04-2025.pdf) | ---- |
+|8   | 12 | 24/04/2025 | Clase 11 - Paginación (Parte 1) | Clase 11 [[pdf]](so-clase11_24-04-2025.pdf) | Se empezo el tema de paginación |
+|9   | 13 | 29/04/2025 | Clase 12 - Paginación (Parte 2) | Clase 12 | Se perdieron los apuntes |
+|9   | --- | 01/05/2025 | --- | --- | Dia del trabajo |
+|10   | 14 | 06/05/2025 | Clase 13 - Paginación (Parte 3) | Clase 13 [[pdf]](so-clase13_06-05-2025.pdf) |] | Se acabo de dictar el tema de paginación |
