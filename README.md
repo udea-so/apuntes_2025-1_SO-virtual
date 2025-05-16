@@ -27,4 +27,6 @@ Apuntes a mano de las clases a lo largo del curso
 |8   | 12 | 24/04/2025 | Clase 11 - Paginación (Parte 1) | Clase 11 [[pdf]](so-clase11_24-04-2025.pdf) | Se empezo el tema de paginación |
 |9   | 13 | 29/04/2025 | Clase 12 - Paginación (Parte 2) | Clase 12 | Se perdieron los apuntes |
 |9   | --- | 01/05/2025 | --- | --- | Dia del trabajo |
-|10   | 14 | 06/05/2025 | Clase 13 - Paginación (Parte 3) | Clase 13 [[pdf]](so-clase13_06-05-2025.pdf) |] | Se acabo de dictar el tema de paginación |
+|10   | 14 | 06/05/2025 | Clase 13 - Paginación (Parte 3) | Clase 13 [[pdf]](so_clase13_06-05-2025.pdf) | | Se acabo de dictar el tema de paginación |
+|10   | 14 | 08/05/2025 | Clase 14 - TLB (Parte 1) | Clase 14 [[pdf]](so_clase14_08-05-2025.pdf) | | Se dicto la primera clase de TLB |
+|11   | 14 | 13/05/2025 | Clase 15 - TLB (Parte 2) | Clase 15 [[pdf]](so_clase15_13-05-2025.pdf) | | Se dicto la primera clase de TLB |
