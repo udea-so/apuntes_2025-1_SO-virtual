@@ -31,8 +31,19 @@ Apuntes a mano de las clases a lo largo del curso
 |10  | 15 | 08/05/2025 | Clase 14 - TLB (Parte 1) | Clase 14 [[pdf]](so_clase14_08-05-2025.pdf) | | Se dicto la primera clase de TLB |
 |11  | 16 | 13/05/2025 | Clase 15 - TLB (Parte 2) | Clase 15 [[pdf]](so_clase15_13-05-2025.pdf) | | Se dicto la segunda clase de TLB |
 |11  | 17 | 15/05/2025 | Clase 16 - TLB (Parte 3)  | Clase 16 [[pdf]](so_clase16_05-05-2025.pdf) | | Se dicto la tercera clase de TLB |
-|12  | 18 | 20/05/2025 | Clase 17 - Mecanismos | Clase 17 [[pdf]](so_clase17_20-05-2025.pdf) | |  |
-|12  | 19 | 22/05/2025 | Clase 18 - Politicas | Clase 18 [[pdf]](so_clase18_22-05-2025.pdf) | | |
+|12  | 18 | 20/05/2025 | Clase 17 - Mecanismos | Clase 17 [[pdf]](so-clase17_20-05-2025.pdf) | |  |
+|12  | 19 | 22/05/2025 | Clase 18 - Politicas | Clase 18 [[pdf]](so-clase18_22-05-2025.pdf) | | |
+
+
+
+
+
+
+
+
+
+
+
 
 |13   | 18 | 27/05/2025 | Clase 19 - | Clase 15 [[pdf]](so_clase15_13-05-2025.pdf) | | Se dicto la primera clase de TLB |
 |13   | 19 | 29/05/2025 | Clase 20 - | Clase 14 [[pdf]](so_clase14_08-05-2025.pdf) | | Se dicto la primera clase de TLB |
