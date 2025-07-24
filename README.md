@@ -27,6 +27,17 @@ Apuntes a mano de las clases a lo largo del curso
 |8   | 12 | 24/04/2025 | Clase 11 - Paginación (Parte 1) | Clase 11 [[pdf]](so-clase11_24-04-2025.pdf) | Se empezo el tema de paginación |
 |9   | 13 | 29/04/2025 | Clase 12 - Paginación (Parte 2) | Clase 12 | Se perdieron los apuntes |
 |9   | --- | 01/05/2025 | --- | --- | Dia del trabajo |
-|10   | 14 | 06/05/2025 | Clase 13 - Paginación (Parte 3) | Clase 13 [[pdf]](so_clase13_06-05-2025.pdf) | | Se acabo de dictar el tema de paginación |
-|10   | 14 | 08/05/2025 | Clase 14 - TLB (Parte 1) | Clase 14 [[pdf]](so_clase14_08-05-2025.pdf) | | Se dicto la primera clase de TLB |
-|11   | 14 | 13/05/2025 | Clase 15 - TLB (Parte 2) | Clase 15 [[pdf]](so_clase15_13-05-2025.pdf) | | Se dicto la primera clase de TLB |
+|10  | 14 | 06/05/2025 | Clase 13 - Paginación (Parte 3) | Clase 13 [[pdf]](so_clase13_06-05-2025.pdf) | | Se acabo de dictar el tema de paginación |
+|10  | 15 | 08/05/2025 | Clase 14 - TLB (Parte 1) | Clase 14 [[pdf]](so_clase14_08-05-2025.pdf) | | Se dicto la primera clase de TLB |
+|11  | 16 | 13/05/2025 | Clase 15 - TLB (Parte 2) | Clase 15 [[pdf]](so_clase15_13-05-2025.pdf) | | Se dicto la segunda clase de TLB |
+|11  | 17 | 15/05/2025 | Clase 16 - TLB (Parte 3)  | Clase 16 [[pdf]](so_clase16_15-05-2025.pdf) | | Se dicto la tercera clase de TLB |
+|12  | 18 | 20/05/2025 | Clase 17 - Mecanismos | Clase 17 [[pdf]](so-clase17_20-05-2025.pdf) | | |
+|12  | 19 | 22/05/2025 | Clase 18 - Politicas | Clase 18 [[pdf]](so-clase18_22-05-2025.pdf) | | |
+|13  | 20 | 27/05/2025 | Clase 19 - Concurrencia | Clase 19 [[pdf]](so-clase19_27-05-2025.pdf) | | Se dicto la primera clase de TLB |
+|13  | 21 | 29/05/2025 | Clase 20 - | --- | | Presentación de las propuestas de trabajo final |
+|14  | 22 | 03/06/2025 | Clase 21 - Locks (Parte 1) | Clase 21 [[pdf]](so-clase21_03-06-2025.pdf) | | Se dicto la primera clase de TLB |
+|14  | 21 | 05/06/2025 | Parcial Modulos 1 y 2 | | |  |
+|15  | 22 | 10/06/2025 | Clase 22 - Locks (Parte 2) | Clase 22 [[pdf]](so-clase22_10-06-2025.pdf) | | Se dicto la primera clase de TLB |
+|15  | 23 | 12/06/2025 | Clase 23 - Variables de condicion (Parte 1) | Clase 23 [[pdf]](so_clase23_12-06-2025.pdf) | | Se dicto la primera clase de CV |
+|16  | 24 | 17/06/2025 | Clase 24 - Variables de condicion (Parte 2) | Clase 24 [[pdf]](so_clase24_17-06-2025.pdf) | | Se dicto la primera clase de CV |
+|16  | 25 | 19/06/2025 | Clase 25 - Semaforos (Parte 1) | Clase 25 [[pdf]](so-clase25_19-06-2025.pdf) | | Se dicto la primera clase de semaforos |
